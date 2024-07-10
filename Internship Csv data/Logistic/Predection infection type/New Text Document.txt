@@ -1,0 +1,20 @@
+The SBI.csv dataset contains the information of more than 2300 children that attended the emergency services with fever and were tested for serious bacterial infection. The outcome sbi has 4 categories: Not Applicable(no infection) / UTI / Pneum / Bact
+
+Build a multinomial model using wcc, age, prevAB, pct, and crp to predict sbi
+
+Compute the confusion matrix and compute the kappa statistics
+
+How does the model classify a child with 1 year of age, WCC=29, PCT=5, CRP=200 and no prevAB?
+
+
+The file SBI.csv contains 2349 records of children admitted to the emergency room with fever and tested for serious bacterial infection (sbi). The following variables are included :
+
+id – patient’s number
+fever_hours – duration of the fever in hours
+age – child’s age
+sex – child’s sex (M / F)
+wcc – white cell count
+prevAB – previous antibiotics (Yes / No)
+sbi – serious bacterial infection (Not Applicable / UTI / Pneum / Bact)
+pct – procalcitonin
+crp – c-reactive protein

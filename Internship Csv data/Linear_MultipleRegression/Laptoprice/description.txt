@@ -1,0 +1,5 @@
+Content
+Here we predict the prices of laptops using logistic regression.
+The prices are predicted by inputing laptop features like core type,graphics size,HDD size etc.
+NB: I have included the laptops having inter cores only!
+

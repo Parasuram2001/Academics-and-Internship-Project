@@ -1,0 +1,5 @@
+
+1.Problem statement explanation:The problem statement is to  predict the crop yeild for a particular crop. multiple linear regression to predict the crop yeild. 
+
+. 2. Dataset Explanation:The dataset conatins state and district name as the primary parameteres. The feature Y is the yeild that we had in the previous year.X1 is a label and is the AREA OF YOUR FARM(In acres),X2 defines the PREVIOUS YEAR CROP YEILD YOU HAD,X3 is the PREVIOUS YEAR RAINFALL nad X4 is CURRENT YEAR EXPECTED RAINFALL. 
+

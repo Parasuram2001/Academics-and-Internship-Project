@@ -1,0 +1,10 @@
+0 (low cost)
+1 (medium cost)
+2 (high cost)
+4 (very high cost)
+
+
+KNN
+Logistic Regression
+Decision tree
+Random forest

@@ -1,0 +1,3 @@
+whether customer buys magazine or not
+
+logistic regression

@@ -1,0 +1,78 @@
+$begin 'CacheDataVersion'
+	DataVersion=221
+$end 'CacheDataVersion'
+$begin 'InterrogationCache'
+	Version=1
+	$begin 'VariableValues'
+		Px='-40.15mm'
+		Py='-30.25mm'
+	$end 'VariableValues'
+	$begin 'ValidationStatus'
+		$begin 'Options'
+			EntityCheckLevel='Strict'
+			IgnoreUnclassifiedObjects=false
+			SkipIntersectionChecks=false
+		$end 'Options'
+		Status=false
+	$end 'ValidationStatus'
+	$begin 'BodyCaches'
+		$begin '6'
+			$begin 'BoundingBox'
+				Low[3: 48.549999999999997, -43.799999999999997, 0]
+				High[3: 154.70000000000005, 37.160000000000011, 1.6000000000000014]
+				Exact=false
+				Valid=true
+			$end 'BoundingBox'
+		$end '6'
+		$begin '34'
+			$begin 'BoundingBox'
+				Low[3: 48.549999999999997, -43.799999999999997, 0]
+				High[3: 154.70000000000005, 37.160000000000011, 0]
+				Exact=false
+				Valid=true
+			$end 'BoundingBox'
+		$end '34'
+		$begin '206'
+			$begin 'BoundingBox'
+				Low[3: 101.04390180557358, 37.159000000000013, 0.89899999999999958]
+				High[3: 102.6617722093259, 42.661000000000008, 2.3283605052208336]
+				Exact=false
+				Valid=true
+			$end 'BoundingBox'
+		$end '206'
+		$begin '215'
+			$begin 'BoundingBox'
+				Low[3: 99.925328905217498, 37.159000000000013, -0.10100000000000027]
+				High[3: 103.76467109477323, 42.661000000000008, 3.3452464498065875]
+				Exact=false
+				Valid=true
+			$end 'BoundingBox'
+		$end '215'
+		$begin '224'
+			$begin 'BoundingBox'
+				Low[3: 99.975000000000009, 42.660000000000011, -0.10000000000000231]
+				High[3: 103.71499999999999, 42.660000000000011, 3.3000000000000007]
+				Exact=false
+				Valid=true
+			$end 'BoundingBox'
+		$end '224'
+		$begin '237'
+			$begin 'BoundingBox'
+				Low[3: 48.54999999999999, -43.799999999999997, -29.999999999999996]
+				High[3: 154.70000000000005, 37.160000000000011, 29.999999999999996]
+				Exact=false
+				Valid=true
+			$end 'BoundingBox'
+		$end '237'
+		$begin '1779'
+			$begin 'BoundingBox'
+				Low[3: 81.77000000000001, -10.799999999999997, 1.6000000000000001]
+				High[3: 121.92, 37.159999999999997, 1.6000000000000001]
+				Exact=false
+				Valid=true
+			$end 'BoundingBox'
+		$end '1779'
+	$end 'BodyCaches'
+	$begin 'IntersectionCaches'
+	$end 'IntersectionCaches'
+$end 'InterrogationCache'

@@ -1,0 +1,14 @@
+House price per unit price
+
+ 0   No                                      414 non-null    int64  
+ 1   X1 transaction date                     414 non-null    float64
+ 2   X2 house age                            414 non-null    float64
+ 3   X3 distance to the nearest MRT station  414 non-null    float64
+ 4   X4 number of convenience stores         414 non-null    int64  
+ 5   X5 latitude                             414 non-null    float64
+ 6   X6 longitude                            414 non-null    float64
+ 7   Y house price of unit area              414 non-null    float64
+
+# Data wrangling:
+# Columns name modification:
+df.columns= df.columns.str.replace(' ','_')
